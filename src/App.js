@@ -4,5 +4,4 @@ function App() {
     <h1>Hell World</h1>
   );
 }
-
 export default App;
